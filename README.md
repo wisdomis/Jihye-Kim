@@ -2,11 +2,11 @@
 
 <details>
 <summary>About Me</summary>
-Jihye Kim
+Instagram
 </summary>
 
 <span>
-  <a href="https://www.instagram.com/6unoyunr/">
+  <a href="www.instagram.com/wisdomismysoulheaven">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
