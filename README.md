@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?&color=#0000000&height=20&section=header&text=Jihye Kim&fontSize=60px" />
+<img src="https://capsule-render.vercel.app/api?&color=#0000000&&section=header&text=Jihye Kim&fontSize=60px" />
+<h1> Jihye Kim </h1>
 
 <details>
 <summary>About Me</summary>
