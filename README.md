@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?&color=#0000000&height=20&section=header&text=Jihye Kim&fontSize=60px" />
 
-<!--
-**wisdomis/wisdomis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>About Me</summary>
+Jihye Kim
+</summary>
 
-Here are some ideas to get you started:
+<span>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
