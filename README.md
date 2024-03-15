@@ -3,7 +3,7 @@
 
 <details>
 <summary>About Me</summary>
-Instagram
+@wisdomismysoulheaven <p>
 </summary>
 
 <span>
