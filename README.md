@@ -3,7 +3,7 @@
 
 <details>
 <summary>About Me</summary>
-@wisdomismysoulheaven <p>
+@wisdomismysoulheaven
 </summary>
 
 <span>
