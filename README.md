@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?&color=#0000000&&section=header&text=Jihye Kim&fontSize=60px" />
 <h1> Jihye Kim </h1>
-<p><h3>Student of TUKorea</h3></p>
 
 <details>
 <summary>About Me</summary>
-@wisdomismysoulheaven
+<p><h3>Student of TUKorea</h3></p>
+<p> Instagram </p>
 </summary>
 
 <span>
