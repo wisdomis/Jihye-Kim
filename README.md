@@ -11,9 +11,8 @@
   <p>Linktree 🌴</p>
   </a>
   <br>
-   <summary>
+
 <h3>Record 📝</h3>
-   </summary>
  
 <p>TUKorea Press 39th (2021.03 ~ 2022.12)</p>
 <p>Data Science Lab(DSL, TUKorea) (2022.09 ~ 12)</p>
