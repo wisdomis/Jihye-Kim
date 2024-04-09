@@ -13,11 +13,13 @@
   <br>
 <h3>Record 📝</h3>
 <p>TUKorea Press 39th (2021.03 ~ 2022.12)</p>
+<p>Data Science Lab(DSL, TUKorea) (2022.09 ~ 12)</p>
 <p>TUKorea Creator 1st (2022.09 ~ 12)</p>
 <p>2030 Busan World Expo Ambassador (2022.09 ~ 2023.12)</p>
 
 
 
+<br>
   <p>contact : 📥 kimjihe0220@naver.com </p>
 </span>
 
