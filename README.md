@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?&color=#0000000&&section=header&text=Jihye Kim&fontSize=60px" />
-<h1> Jihye Kim </h1>
+<h1> Jihye Kim (Wisdom) </h1>
 
 <details>
 <summary>About Me</summary>
@@ -11,7 +11,10 @@
   <p>Linktree 🌴</p>
   </a>
   <br>
+   <summary>
 <h3>Record 📝</h3>
+   </summary>
+ 
 <p>TUKorea Press 39th (2021.03 ~ 2022.12)</p>
 <p>Data Science Lab(DSL, TUKorea) (2022.09 ~ 12)</p>
 <p>TUKorea Creator 1st (2022.09 ~ 12)</p>
