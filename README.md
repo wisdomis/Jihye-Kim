@@ -4,12 +4,15 @@
 <details>
 <summary>About Me</summary>
 <p><h3>Student of TUKorea</h3></p>
-<br>
 </summary>
 
 <span>
   <a href="https://linktr.ee/wisdomismysoulheaven">
   <p>Linktree 🌴</p>
   </a>
+  <br>
+<h3>Record 📝</h3>
+<p>TUKorea Press 39th (2021.03 ~ 2022.12)</p>
+  
 </span>
 
