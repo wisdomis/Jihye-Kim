@@ -4,7 +4,7 @@
 <details>
 <summary>About Me</summary>
 <p><h3>Student of TUKorea</h3></p>
-<p> Instagram </p>
+<br>
 </summary>
 
 <span>
