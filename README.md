@@ -24,6 +24,6 @@
 
 
 <br>
-  <p>contact : 📥 kimjihe0220@naver.com </p>
+  <p>contact : 📨 kimjihe0220@naver.com </p>
 </span>
 
