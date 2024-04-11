@@ -20,6 +20,7 @@
 <p>🌊 2030 Busan World Expo Ambassador (2022.09 ~ 2023.12)</p>
 <p>⛴️ GTEP 17th (2023.03 ~ 2024.02)</p>
 <p>🇪🇸 Spain overseas field training (@miquelsuay) (2024.01.08 ~ 02.09)</p>
+<p>🖥️ TU Innovation Monitoring 2nd, 3rd (2023.05 ~ 2025.02)</p>
 
 
 
