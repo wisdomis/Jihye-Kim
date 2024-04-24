@@ -13,7 +13,6 @@
   <br>
 
 <h3>Record 📝</h3>
-<br>
 <h4>My Activities</h4>
  
 <p>🖊️ TUKorea Press 39th (2021.03 ~ 2022.12)</p>
