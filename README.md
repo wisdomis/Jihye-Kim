@@ -12,7 +12,9 @@
   </a>
   <br>
 
-<h3>Record 📝</h3>
+<h3>My Record 📝</h3>
+<br>
+<h4>My Activities</h4>
  
 <p>🖊️ TUKorea Press 39th (2021.03 ~ 2022.12)</p>
 <p>📈 Data Science Lab (DSL, TUKorea) (2022.09 ~ 12)</p>
@@ -21,7 +23,9 @@
 <p>⛴️ GTEP 17th (2023.03 ~ 2024.02)</p>
 <p>🇪🇸 Spain overseas field training (@miquelsuay) (2024.01.08 ~ 02.09)</p>
 <p>🖥️ TU Innovation Monitoring 2nd, 3rd (2023.05 ~ 2025.02)</p>
+
 <br>
+<h4>My Awards</h4>
 <p>🏅 2022' TU-VCC 1기 성과확산발표 장려상</p>
 <p>🏅 2022' 썸썸 BLUE in 태안 국회의원상</p>
 <p>🏅 2023' KBO-대학연계 프로젝트 KBO 나인 장려상</p>
