@@ -12,7 +12,7 @@
   </a>
   <br>
 
-<h3>My Record 📝</h3>
+<h3>Record 📝</h3>
 <br>
 <h4>My Activities</h4>
  
