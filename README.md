@@ -16,12 +16,15 @@
 <h4>My Activities</h4>
  
 <p>🖊️ TUKorea Press 39th (2021.03 ~ 2022.12)</p>
+<p>🔥 TU-VCC Entrepreneurship Club 1st, 2nd, 3rd (2022.09 ~ 2025.02)</p>
 <p>📈 Data Science Lab (DSL, TUKorea) (2022.09 ~ 12)</p>
 <p>📹 TUKorea Creator 1st (2022.09 ~ 12)</p>
 <p>🌊 2030 Busan World Expo Ambassador (2022.09 ~ 2023.12)</p>
 <p>⛴️ GTEP 17th (2023.03 ~ 2024.02)</p>
+<p>💜 My luv: University Student Union Practical Marketing Project Club (@한국투자액셀러레이터) (2022.05 ~ 6)</p>
 <p>🇪🇸 Spain overseas field training (@miquelsuay) (2024.01.08 ~ 02.09)</p>
 <p>🖥️ TU Innovation Monitoring 2nd, 3rd (2023.05 ~ 2025.02)</p>
+<p>💼 2024 WISET Bloomberg Global Mentoring (@Bloomberg Korea) (2024.03 ~ 12)</p>
 
 <br>
 <h4>My Awards</h4>
