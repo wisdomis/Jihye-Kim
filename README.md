@@ -21,6 +21,7 @@
 <p>⛴️ GTEP 17th (2023.03 ~ 2024.02)</p>
 <p>🇪🇸 Spain overseas field training (@miquelsuay) (2024.01.08 ~ 02.09)</p>
 <p>🖥️ TU Innovation Monitoring 2nd, 3rd (2023.05 ~ 2025.02)</p>
+<br>
 <p>🏅 2022' TU-VCC 1기 성과확산발표 장려상</p>
 <p>🏅 2022' 썸썸 프로젝트 시즌2 국회의원상</p>
 <p>🏅 2023' KBO-대학연계 프로젝트 KBO 나인 장려상</p>
