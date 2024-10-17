@@ -6,7 +6,7 @@
 </summary>
 
 <span>
-  <a href="https://linktr.ee/wisdomismysoulheaven">
+  <a href="https://linktr.ee/wisdomismysoulheavenvank">
   <p>Linktree 🌴</p>
   </a>
   <br>
