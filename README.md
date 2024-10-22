@@ -44,6 +44,12 @@
 
 
 <br><br>
+
+<h4>My Careers</h4>
+
+<p>사이버외교사절단 반크 (2024.09 ~ 2025.02)</p>
+<p>HEALTTH CUBE (CMO) (2024.02 ~ )</p>
+
   <p>contact : 📨 kimjihe0220@naver.com </p>
 </span>
 
