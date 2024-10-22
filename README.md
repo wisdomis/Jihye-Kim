@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?&color=#0000000&&section=header&text=Jihye Kim&fontSize=60px" />
-<h1> 🐏 Jihye Kim (Wisdom) </h1>
+<h1>Jihye Kim</h1>
 
 <details>
 <summary>About Me</summary>
